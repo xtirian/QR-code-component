@@ -1,0 +1,73 @@
+*{ 
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+
+ font-family: 'Outfit', sans-serif;
+ 
+}
+
+body {
+ height: 100vh;
+ background-color: #cddcef;
+}
+
+.container{
+ display: flex;
+
+ justify-content: center;
+ align-items: center;
+
+ height: 100%;
+}
+
+.card{
+ max-width: 290px;
+
+ padding: 15px;
+
+ border-radius: 20px;
+ background-color: #fff;
+
+ text-align: center;
+}
+
+.qr-code{
+ max-width: 100%;
+ border-radius: 15px;
+}
+
+.title{
+ font-weight: 700;
+ font-size: 22px;
+ line-height: 30px;
+ margin-top: 20px;
+
+ color: #1f3251;
+}
+
+.subtitle{
+ font-size: 15px;
+ line-height: 22px;
+
+ color: #7b879d;
+ 
+ margin-top: 10px;
+ margin-bottom: 20px;
+}
+
+
+/* footer */
+footer{
+ position: fixed;
+ bottom: 0;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: #3e52a3;
+  text-decoration: none;
+}
