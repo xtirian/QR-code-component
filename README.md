@@ -20,12 +20,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](./images/screenshots/mobile.png)
+
 ![](./images/screenshots/web.png)
 
 ### Links
 
-- Solution URL: https://github.com/xtirian/QR-code-component
-- Live Site URL: 
+- Solution URL: [GitHub Repository](https://github.com/xtirian/QR-code-component)
+- Live Site URL: [Live Site](https://qrcode-xtirian.netlify.app/)
 
 ## My process
 
